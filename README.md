@@ -1,5 +1,5 @@
 <h1 align="center">Merhaba 👋, ben Beyza</h1>
-<h3 align="center">Merhaba! Ben Beyza, bilgisayar programlama mezunuyum, yazılım geliştirmeye tutkuluyum ve şu anda veri bilimi ve makine öğrenimi konusunda uzmanım. 🔍 Python, Java, C#, SQL ve web teknolojilerini kullanarak projeler geliştiriyorum. 📊 Veri analizi, öngörücü modelleme ve yapay zeka destekli uygulamalara odaklanıyorum. 💡 Hızlı öğrenen, yenilikçi ve çözüm odaklıyım. 📂 Aşağıdaki projelerimi incelemekten çekinmeyin ve bağlantı kurmak isterseniz bana ulaşın!</h3>
+<h3 align="center">Merhaba! Ben Beyza, Bilişim Teknolojileri Öğretmeniyim, yazılım geliştirmeye tutkuluyum ve şu anda veri bilimi ve makine öğrenimi konusunda uzmanım. 🔍 Python, Java, C#, SQL ve web teknolojilerini kullanarak projeler geliştiriyorum. 📊 Veri analizi, öngörücü modelleme ve yapay zeka destekli uygulamalara odaklanıyorum. 💡 Hızlı öğrenen, yenilikçi ve çözüm odaklıyım. 📂 Aşağıdaki projelerimi incelemekten çekinmeyin ve bağlantı kurmak isterseniz bana ulaşın!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=beyzatasatan&label=Profile%20views&color=0e75b6&style=flat" alt="beyzatasatan" /> </p>
 
